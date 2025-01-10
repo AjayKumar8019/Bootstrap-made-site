@@ -1,0 +1,112 @@
+/* Default Styles */
+.dell {
+  background-color: #37517E;
+}
+
+a:hover {
+  color: skyblue !important;
+}
+
+h2 {
+  color: #37517E;
+}
+
+h3 {
+  color: #37517E;
+}
+
+.skill .progress-bar {
+  color: #37517E;
+}
+
+.hhhh {
+  background-color: #37517e7b !important;
+  height: 300px !important;
+}
+
+.root {
+  background-image: url(https://bootstrapmade.com/demo/templates/Arsha/assets/img/cta-bg.jpg);
+  height: 300px;
+  background-attachment: fixed;
+}
+
+.akay {
+  width: 22%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.bb {
+  height: 500px;
+}
+
+.soul ul li {
+  padding: 10px 10px;
+  align-items: center;
+}
+
+.point {
+  list-style-type: none;
+}
+
+.social i {
+  width: 30px;
+}
+
+i:hover {
+  color: skyblue;
+}
+
+/* Responsive Styles */
+@media (max-width: 1200px) {
+  .akay {
+    width: 30%;
+  }
+  .hhh {
+    height: 250px !important;
+  }
+  .root {
+    height: 250px;
+  }
+}
+
+@media (max-width: 992px) {
+  .akay {
+    width: 40%;
+  }
+  .hhh {
+    height: 200px !important;
+  }
+  .root {
+    height: 200px;
+  }
+}
+
+@media (max-width: 768px) {
+  .akay {
+    width: 50%;
+  }
+  .hhh {
+    height: 150px !important;
+  }
+  .root {
+    background-attachment: scroll;
+    height: 150px;
+  }
+}
+
+@media (max-width: 576px) {
+  .akay {
+    width: 100%;
+    padding: 10px;
+  }
+  .hhh {
+    height: 100px !important;
+  }
+  .root {
+    height: 100px;
+  }
+  .social i {
+    width: 25px;
+  }
+}
